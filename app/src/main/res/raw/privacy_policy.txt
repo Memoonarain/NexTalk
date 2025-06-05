@@ -1,0 +1,42 @@
+. Information We Collect  
+        a. Personal Information 
+        • Name, username 
+        • Email address or phone number 
+        • Profile picture 
+        • Contacts (only with your explicit consent)  
+        b. Usage Data 
+        • Chat and call metadata (timestamps, duration, participants) 
+        • Device type, OS version, IP address 
+        • Crash logs and diagnostics  
+        c. Media Content 
+        • Messages, photos, videos, voice notes, and documents you share 
+        • Media is stored securely and encrypted, often using third-party cloud storage like Cloudinary  
+        2. How We Use Your Information  
+        We use your data to: 
+        • Provide and improve messaging and calling features 
+        • Authenticate users and manage accounts 
+        • Facilitate real-time communication 
+        • Detect and prevent fraud or abuse 
+        • Offer customer support 
+        • Send important updates or service notifications  
+        3. Sharing Your Information  
+        We do not sell your data. We may share information with: 
+        • Cloud service providers (e.g., for image and file storage) 
+        • Analytics tools to improve performance 
+        • Law enforcement, if required by law or to protect user safety 
+        • Third-party SDKs, only as required to provide app functionality  
+        4. Data Security  
+        We implement strong security measures including: 
+        • End-to-end encryption for chats (if applicable) 
+        • Secure HTTPS connections 
+        • Cloudinary's secure media handling (where applicable)  
+        5. Your Choices  
+        You may: 
+        • Access or update your profile information 
+        • Delete your account from within the app 
+        • Revoke permissions like contact or media access 
+        • Contact us to exercise your data rights under applicable laws (e.g., GDPR, CCPA)  
+        6. Children's Privacy  
+        Nextalk is not intended for children under 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect data from minors.  
+        7. Changes to This Policy  
+        We may update this Privacy Policy from time to time. Changes will be posted in-app or on our website, and we will notify users where appropriate.</string>
