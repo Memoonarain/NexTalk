@@ -119,16 +119,7 @@ public class ProfileUpdateActivity extends AppCompatActivity {
     }
 
     private void initializeCloudinary() {
-        try {
-            MediaManager.get();
-        } catch (IllegalStateException e) {
-            Map<String, String> config = new HashMap<>();
-            config.put("cloud_name", "du3kpasqd");
-            config.put("api_key", "978589238943688");
-            config.put("api_secret", "UBV5lxDjn_56OlOQM1CfU8-D2uU");
-            MediaManager.init(this, config);
         }
-    }
 
     private void showDatePicker() {
         Calendar calendar = Calendar.getInstance();
